@@ -32,7 +32,7 @@ def speak(text):
    #  For AI integeration in my projects
 def deepseek(prompts):
     headers = {
-        'Authorization': 'sk-1cc0fbd76dbb47f08442c0b2d53abdf3',
+        'Authorization': 'sk-1cc0fbd76dbb47f08442c0b2d53abdf3asss',
         'Content-Type': 'application/json'
     }
     data = {
