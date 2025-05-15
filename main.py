@@ -10,7 +10,7 @@ import time
 import os
 recognizer=sr.Recognizer()
 engine=pyttsx3.init()
-newsapi="58d9f8195e6d404fa12dbfca926197b4"
+newsapi="your api"
 def speak_old(text):
     engine.say(text)
     engine.runAndWait()
